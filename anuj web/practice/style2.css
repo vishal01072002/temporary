@@ -1,0 +1,20 @@
+.newHead{
+    background: blueviolet;
+}
+
+table,tr,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+a:link{
+    color: red;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:active{
+    color: yellowgreen;
+}

@@ -1,0 +1,23 @@
+h{
+    color: blue;
+}
+
+a:link{
+    color:aqua
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: yellow;
+}
+
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+}
+

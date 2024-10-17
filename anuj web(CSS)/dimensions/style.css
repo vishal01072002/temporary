@@ -1,0 +1,25 @@
+.box{
+    max-height: 50px;
+    border: 1px solid black;
+    overflow: scroll;
+}
+
+.lev{
+    margin: 10px;
+    min-height: 30px;
+    border: 1px solid black;
+}
+
+.dev{
+    max-height: 10px;
+    border: 1px solid black;
+    overflow: visible;
+    overflow: hidden;
+}
+
+#div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    overflow: visible;
+}

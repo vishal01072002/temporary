@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navlink {
+    @apply text-white font-mullish py-7 hover:text-lightBlue cursor-pointer transition-all duration-200 relative hidden lg:block 
+}
+
+.navlink-div{
+    @apply absolute w-full h-1 bg-lightBlue hidden group-hover:block transition-all duration-200
+}
